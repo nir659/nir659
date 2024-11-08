@@ -29,6 +29,7 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
 &nbsp; ∘ &nbsp; 📊 pentest related projects<br>
 &nbsp; ∘ &nbsp; 🖼 machine learning & artificial intelligence<br>
 &nbsp; ∘ &nbsp; 🛠 reverse engineering<br>
+&nbsp; ∘ &nbsp; 🎮 blaming everything on my teammates or peripherals<br>
 - ⚡ Fun fact: I like milkshakes & anime
  
   
