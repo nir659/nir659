@@ -24,7 +24,7 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
 </div>
 
 - 👩 I'm `17` year old
-- 🌱 Currently learning `C` <!-- and `how to be a good wife` -->
+- 🌱 Currently learning `web3` <!-- and `how to be a good wife` -->
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16">  I enjoy:<br>
 &nbsp; ∘ &nbsp; 📊 pentest related projects<br>
 &nbsp; ∘ &nbsp; 🖼 machine learning & artificial intelligence<br>
