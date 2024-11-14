@@ -1,5 +1,5 @@
 <div align="center">  
-  <img style="margin: 10px" src="https://cdn.discordapp.com/attachments/832861967798370347/1304408484984651788/oLP9uzJ.gif?ex=672f4891&is=672df711&hm=d2c9821531a760bb45f8060e20fbfee8cca7e1595cee9c1241bfa79eddde29e4&" height="25" />  
+  <img style="margin: 10px" src="https://cdn.discordapp.com/attachments/832861967798370347/1304408484984651788/oLP9uzJ.gif?ex=6737da51&is=673688d1&hm=0a0c7ea29a05dac5508433583bdcb4aa18d57b5f70fe7fe549b04dffa3ab8af4" height="25" />  
 </div>
 
 <h3 align="center">I like to do stuff</h3>
@@ -9,7 +9,7 @@
   <br>
 </div>  
 <div align="center">  
-  <img style="margin: 10px" src="https://cdn.discordapp.com/attachments/832861967798370347/1304408484984651788/oLP9uzJ.gif?ex=672f4891&is=672df711&hm=d2c9821531a760bb45f8060e20fbfee8cca7e1595cee9c1241bfa79eddde29e4&" height="25" />  
+  <img style="margin: 10px" src="https://cdn.discordapp.com/attachments/832861967798370347/1304408484984651788/oLP9uzJ.gif?ex=6737da51&is=673688d1&hm=0a0c7ea29a05dac5508433583bdcb4aa18d57b5f70fe7fe549b04dffa3ab8af4" height="25" />  
 </div>
 
 ## ⚡️ A Few Quick Facts
