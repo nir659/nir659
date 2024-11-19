@@ -1,16 +1,15 @@
-<div align="center">  
-  <img style="margin: 10px" src="https://cdn.discordapp.com/attachments/832861967798370347/1304408484984651788/oLP9uzJ.gif?ex=6737da51&is=673688d1&hm=0a0c7ea29a05dac5508433583bdcb4aa18d57b5f70fe7fe549b04dffa3ab8af4" height="25" />  
-</div>
+<br>
 
 <h3 align="center">I like to do stuff</h3>
 <div align="center">
 
+<br>
+  
 </div>
-  <br>
-</div>  
-<div align="center">  
-  <img style="margin: 10px" src="https://cdn.discordapp.com/attachments/832861967798370347/1304408484984651788/oLP9uzJ.gif?ex=6737da51&is=673688d1&hm=0a0c7ea29a05dac5508433583bdcb4aa18d57b5f70fe7fe549b04dffa3ab8af4" height="25" />  
-</div>
+
+<!--
+Stupid gifs
+-->
 
 ## ⚡️ A Few Quick Facts
 
@@ -19,7 +18,7 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
 -->
 
 <div>
-  <img align="left" height="260vh" src="https://ibb.co/q57w33X">
+  <img align="left" height="260vh" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhsbXZiN3NwNDdobGV1Z2g3MzcybWQxOTBldmN1MHlra2NoY3lmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UOZ9V6CODsmhBT8GaT/giphy.gif">
   <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
@@ -27,6 +26,7 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
 - 🌱 Currently learning `web3` <!-- and `how to be a good wife` -->
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16">  I enjoy:<br>
 &nbsp; ∘ &nbsp; 📊 pentest related projects<br>
+&nbsp; ∘ &nbsp; 🚩 CTF<br>
 &nbsp; ∘ &nbsp; 🖼 machine learning & artificial intelligence<br>
 &nbsp; ∘ &nbsp; 🛠 reverse engineering<br>
 &nbsp; ∘ &nbsp; 🎮 blaming everything on my teammates or peripherals<br>
