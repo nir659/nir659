@@ -19,7 +19,7 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
 -->
 
 <div>
-  <img align="left" height="260vh" src="https://cdn.discordapp.com/attachments/832861967798370347/1304409772845432875/aqyLDyg.gif?ex=672f49c4&is=672df844&hm=6598de825dc23d8bb042c15e9683b5693779e48bd7d33eae3035719a6b49db5d&">
+  <img align="left" height="260vh" src="https://tenor.com/view/anime-anime-funny-anime-computer-kawaii-gif-15735770">
   <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
