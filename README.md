@@ -22,7 +22,7 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
   <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
-- 👩 I'm `17` year old
+- 👩 I'm `17` year old and an aspiring cybersecurity specialist
 - 🌱 Currently learning `web3` <!-- and `how to be a good wife` -->
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16">  I enjoy:<br>
 &nbsp; ∘ &nbsp; 📊 pentest related projects<br>
@@ -91,6 +91,10 @@ My peripheral schizophrenia is very mild compared to others.
   - Desk: Marble Desk
   - Chair: Office chair
 
-<br><br>
+
+---
+
+n3er@thesecure.biz                                     
+xmr:  8BCjVSbwH5u77ZpwjauJPzjS6qbNuWfNy1bRoS5CTB8ZWhJ2Pw4QEfoF2KDf3dadjET5oxdSQe3XhYCxNwnzVAuePp3rKo8
 
 ---
