@@ -95,6 +95,6 @@ My peripheral schizophrenia is very mild compared to others.
 ---
 
 n3er@thesecure.biz                                     
-xmr:  8BCjVSbwH5u77ZpwjauJPzjS6qbNuWfNy1bRoS5CTB8ZWhJ2Pw4QEfoF2KDf3dadjET5oxdSQe3XhYCxNwnzVAuePp3rKo8
+xmr:  47jZThJ4uXoF4ofCAishYg3djoJhrm41wB29FDK4qT8dXSeprDaqDbqAwKYuL1H2TFdq1vuw3rDLB8KKXgBcdnNXJyQXXX9
 
 ---
