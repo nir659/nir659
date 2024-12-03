@@ -22,7 +22,7 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
   <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
-- 👩 I'm `17` year old and an aspiring cybersecurity specialist
+- 👩 I'm `17` year old and an aspiring cybersecurity specialist (soundcloud rapper)
 - 🌱 Currently learning `web3` <!-- and `how to be a good wife` -->
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16">  I enjoy:<br>
 &nbsp; ∘ &nbsp; 📊 pentest related projects<br>
