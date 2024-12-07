@@ -1,47 +1,32 @@
 <br>
 
-<h3 align="center">I like to do stuff</h3>
+<p align="center">i like to do stuff.</p>
 <div align="center">
 
 <br>
-  
 </div>
-
-<!--
-Stupid gifs
--->
 
 ## ⚡️ A Few Quick Facts
 
-<!--
-This part was an absolute nightmare to figure out. Turns out that Githubs extended markdown is scuffed as hell. Left-embedded gifs break everything, so what you see below is the only way to fix it. I seem to be the only one to have even gotten that far.
--->
+<img width="300px" align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhsbXZiN3NwNDdobGV1Z2g3MzcybWQxOTBldmN1MHlra2NoY3lmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UOZ9V6CODsmhBT8GaT/giphy.gif">
+<img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 
-<div>
-  <img align="left" height="260vh" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhsbXZiN3NwNDdobGV1Z2g3MzcybWQxOTBldmN1MHlra2NoY3lmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UOZ9V6CODsmhBT8GaT/giphy.gif">
-  <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
-</div>
-
-- 👩 I'm `17` year old and an aspiring cybersecurity specialist (soundcloud rapper)
-- 🌱 Currently learning `web3` <!-- and `how to be a good wife` -->
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16">  I enjoy:<br>
+- im `17` years old
+- currently learning `web3` <!-- and `how to be a good wife` -->
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16">  i enjoy:<br>
 &nbsp; ∘ &nbsp; 📊 pentest related projects<br>
-&nbsp; ∘ &nbsp; 🚩 CTF<br>
+&nbsp; ∘ &nbsp; 🚩 ctf<br>
 &nbsp; ∘ &nbsp; 🖼 machine learning & artificial intelligence<br>
 &nbsp; ∘ &nbsp; 🛠 reverse engineering<br>
 &nbsp; ∘ &nbsp; 🎮 blaming everything on my teammates or peripherals<br>
-- ⚡ Fun fact: I like milkshakes & anime
+- fact: i like milkshakes & anime
  
-  
- 
-    
-<br><br>
+<br clear="left"/>
 
----
 <!--
 Some stuff
 -->
-<h2 id="knowledge_skills" align=''>🤨 Knowledge & Skills </h2>
+<h2 id="knowledge_skills" align=''>Knowledge & Skills </h2>
 
 <br>
 
@@ -76,23 +61,6 @@ Some stuff
 
 ---
 
-<!--
-My peripheral schizophrenia is very mild compared to others.
--->
-## 🖥️ Peripherals
-
-  - Monitor: XL2546 240Hz, hp 75hz
-  - Keyboard: iqunix ez60
-  - Mouse: Sora v2, HTX 4K
-  - Mousepad: Artisan Z mid
-  - Audio Equip:
-    - Microphone: RODE
-    - Headphones: Moondrop Aria 2, Apple earbud
-  - Desk: Marble Desk
-  - Chair: Office chair
-
-
----
 
 xmr:  47jZThJ4uXoF4ofCAishYg3djoJhrm41wB29FDK4qT8dXSeprDaqDbqAwKYuL1H2TFdq1vuw3rDLB8KKXgBcdnNXJyQXXX9
 
