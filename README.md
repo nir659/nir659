@@ -1,12 +1,6 @@
-<br>
 
-<p align="center">i like to do stuff.</p>
-<div align="center">
 
-<br>
-</div>
-
-## ⚡️ A Few Quick Facts
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=435&height=60&lines=About+me%3A" alt="Typing SVG" /></a>
 
 <img width="300px" align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhsbXZiN3NwNDdobGV1Z2g3MzcybWQxOTBldmN1MHlra2NoY3lmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UOZ9V6CODsmhBT8GaT/giphy.gif">
 <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
@@ -23,10 +17,11 @@
  
 <br clear="left"/>
 
-<!--
-Some stuff
--->
-<h2 id="knowledge_skills" align=''>Knowledge & Skills </h2>
+<br>
+
+---
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=435&height=60&lines=Knowledge+%26+Skills%3A" alt="Typing SVG" /></a>
 
 <br>
 
@@ -62,6 +57,6 @@ Some stuff
 ---
 
 
-xmr:  47jZThJ4uXoF4ofCAishYg3djoJhrm41wB29FDK4qT8dXSeprDaqDbqAwKYuL1H2TFdq1vuw3rDLB8KKXgBcdnNXJyQXXX9
 
----
+
+xmr:  47jZThJ4uXoF4ofCAishYg3djoJhrm41wB29FDK4qT8dXSeprDaqDbqAwKYuL1H2TFdq1vuw3rDLB8KKXgBcdnNXJyQXXX9
