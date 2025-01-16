@@ -1,7 +1,3 @@
-- 17
-
----
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=435&height=60&lines=Knowledge+%26+Skills%3A" alt="Typing SVG" /></a>
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
