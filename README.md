@@ -23,3 +23,9 @@
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 </div>
+
+<br></br>
+
+---
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=nir659&theme=gruvbox&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly&card_width=1024)](https://git.io/streak-stats)
