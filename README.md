@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://files.catbox.moe/6zkgid.webp" alt="image" align="right" width="50%">
+  <img src="https://files.catbox.moe/6o8yte.png" alt="image" align="right" width="50%">
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=600&size=35&color=F7F7F7&center=true&vCenter=true&repeat=false&lines=NIR" alt="NIR typing animation" />
   <pre>
