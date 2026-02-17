@@ -28,4 +28,4 @@
 
 ---
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=nir659&theme=gruvbox&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly&card_width=1024)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nir659&theme=sakura-x&border_radius=1.5&short_numbers=true&date_format=%5BY.%5Dn.j&card_width=1100)](https://git.io/streak-stats)
