@@ -5,9 +5,7 @@
   <div style="background: #1d1f21; border-radius: 6px; padding: 12px; font-family: monospace; display: inline-block;">
     <pre style="margin: 0; color: #f7f7f7;">
 💻 System programming languages • DevOps
-📖 Software architecture • Distributed systems
-<a href="https://p.nir.rip/" style="color: #8ef; text-decoration: underline;">Portfolio</a>
-</pre>
+📖 Software architecture • Distributed systems</pre>
   </div>
   <img src="https://files.catbox.moe/cya5h6.gif" alt="image" width="10%">
   <br><br>
